@@ -27,15 +27,15 @@ An 'int' is a whole number, like 1, 2, 3, 4, 5, 6, 7, 8, 9, 0.
 A 'string' is a sequence of characters, like ""Hello World"", ""I am a string"", and ""C# is awesome"". 
 A 'float' is a decimal number, like 1.234, 5.678, and 9.101112. 
 A 'bool' is a true or false value, like true and false. ";
-    public static string ArtificialIntelligencePageOne =
-@"
+    public static string AIPageOne =
+@"...
 Ah, the magnificent realm of artificial intelligence, a domain where silicon creatures roam the digital savannah. 
 Artificial intelligence, often referred to as AI, is a marvel of human ingenuity, a technological Serengeti teeming with algorithms and neural networks.
 In this digital ecosystem, AI systems mimic the cognitive functions of humans, striving to understand, learn, and adapt. 
 Just as a chameleon changes its color to blend with its surroundings, AI adapts its behavior based on data and patterns, seeking to navigate the complex landscapes of information.
 ";
-    public static string ArtificialIntelligencePageTwo =
-@"
+    public static string AIPageTwo =
+@"...
 These AI entities, like the stealthy predators of the wilderness, can process vast amounts of data with astonishing speed and precision. 
 They're capable of recognizing faces, translating languages, playing games, and even helping diagnose illnesses. 
 AI is both a product of our quest for knowledge and a tool that reshapes the way we interact with the world.
