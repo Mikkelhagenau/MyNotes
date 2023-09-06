@@ -1,5 +1,6 @@
 public static class MyNotes
 {
+   
     public static string VariablesPageOne =
 @"...
 In the vast savannah of computer memory, a remarkable phenomenon occurs. 
@@ -26,5 +27,12 @@ An 'int' is a whole number, like 1, 2, 3, 4, 5, 6, 7, 8, 9, 0.
 A 'string' is a sequence of characters, like ""Hello World"", ""I am a string"", and ""C# is awesome"". 
 A 'float' is a decimal number, like 1.234, 5.678, and 9.101112. 
 A 'bool' is a true or false value, like true and false. ";
-   
+    public static string VariablesPageThree =
+    @"
+    hej 3
+    ";
+    public static string VariablesPageFour =
+    @"
+    hej 4
+    ";
 }
